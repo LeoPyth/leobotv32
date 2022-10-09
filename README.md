@@ -6,8 +6,8 @@
 ## Note!! Scan Pake Script Md Yang Lain Buat Dapetin SessionNya 
 
 
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283838186170) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281361281833) 
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287824899711) 
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6287824899711) 
 ---------
 
 ## ```Heroku Buildpack```
@@ -84,8 +84,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git https://github.com/Hyuura-Official/YushinoMdV2
-cd YushinoMdV2
+git https://github.com/LeoPyth/leobotv32
+cd leobotv32
 npm install
 npm update
 ```
